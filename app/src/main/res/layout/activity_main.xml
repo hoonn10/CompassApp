@@ -7,8 +7,9 @@
     tools:context=".MainActivity">
 
     <com.androidapp.compassapp.CompassView
-        android:layout_height="match_parent"
-        android:layout_width="match_parent">
+        android:id="@+id/compassView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
     </com.androidapp.compassapp.CompassView>
 
